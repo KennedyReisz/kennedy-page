@@ -9,7 +9,7 @@
 <br />
 
 <div align=center>
-  <a href="https://starbucks-remake.vercel.app/">Preview</a>
+  <a href="https://kennedy-page.vercel.app/">Preview</a>
 </div>
 
 <div align=center>
