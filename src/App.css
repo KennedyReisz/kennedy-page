@@ -39,7 +39,7 @@ body {
 .container .socialLinks a img {
   transition: 1s all ease;
   filter: drop-shadow(0px 0px 5px black);
-  margin-left: 50px;
+  margin-left: 30px;
   margin-bottom: 50px;
 }
 
